@@ -14,5 +14,6 @@ If we have time:
 3. [Monitoring](https://github.com/sarika-subram/coreimmersionday/blob/master/Monitoring_Lab.docx)
 
 Additional labs (For overachievers)
-1. [Cloudformation](https://github.com/sarika-subram/coreimmersionday/blob/master/Cloudformation.docx)
-2. [Serverless Applications](https://github.com/sarika-subram/coreimmersionday/blob/master/DevServerless%20HOL.docx)
+1. [Build a Serverless Web Application] (https://github.com/aws-samples/aws-serverless-workshops/tree/master/WebApplication)
+2. [Cloudformation](https://github.com/sarika-subram/coreimmersionday/blob/master/Cloudformation.docx)
+3. [Serverless Applications](https://github.com/sarika-subram/coreimmersionday/blob/master/DevServerless%20HOL.docx)
