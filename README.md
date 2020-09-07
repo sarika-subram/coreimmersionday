@@ -16,4 +16,4 @@ If we have time:
 Additional labs (For overachievers)
 1. [Build a Serverless Web Application](https://github.com/aws-samples/aws-serverless-workshops/tree/master/WebApplication)
 2. [Cloudformation](https://github.com/sarika-subram/coreimmersionday/blob/master/Cloudformation.docx)
-3. [Serverless Applications](https://github.com/sarika-subram/coreimmersionday/blob/master/DevServerless%20HOL.docx)
+3. [Serverless Development on AWS](https://github.com/sarika-subram/coreimmersionday/blob/master/DevServerless%20HOL.docx)
